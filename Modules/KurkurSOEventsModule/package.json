@@ -1,0 +1,8 @@
+{
+  "name": "com.kurkur.soevents",
+  "displayName": "Kurkur SO Events Module",
+  "version": "0.0.1",
+  "description": "The Event System module base on Unity Events and ScriptableObject",
+  "unity": "2021.3",
+  "dependencies": {}
+}
